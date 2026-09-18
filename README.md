@@ -1,4 +1,6 @@
-## this  is the challenge for day 2
+# Git day three
 
-seek permission from the administrator in order to make any changes
-The administrator is named Raga
+
+## About Me
+My name is Raga 
+I am learning Git and GitHub
